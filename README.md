@@ -91,7 +91,16 @@ All pages include slicers for **Genre, Region, Plan Name and Date range**, plus 
 
 ## Dataset
 
-The dataset is loaded into the model and saved inside the `.pbix` file. See [`data/README.md`](data/README.md) for exporting the raw tables.
+The dataset is loaded into the model and saved inside the `.pbix` file. 
+
+- Fact_StreamingActivity.csv
+- Dim_Content.csv
+- Dim_Date.csv
+- Dim_Device.csv
+- Dim_Geography.csv
+- Dim_Subscription.csv
+- Dim_User.csv
+
 
 > Source note: *(edit this line: for example, "Synthetic dataset generated for this project" or the Kaggle link and licence if you downloaded it.)*
 
@@ -106,15 +115,9 @@ The dataset is loaded into the model and saved inside the `.pbix` file. See [`da
 ```
 OTT-MEDIA-STREAMING-ANALYSIS/
 ├── Ott_Media_project.pbix
+├── OTT_Streaming_StarSchema.xlsx
 ├── README.md
-├── .gitignore
-├── data/
-│   └── README.md
-└── screenshots/
-    ├── 01-overview.png
-    ├── 02-audience-subscribers.png
-    ├── 03-engagement-details.png
-    └── 04-content-performance.png
+└── .gitignore
 ```
 
 ## Author

@@ -5,16 +5,20 @@ An interactive Power BI dashboard that analyses viewer behaviour, subscriber hea
 ## Dashboard Preview
 
 ### 1. Overview
-![Overview](screenshots/01-overview.png)
+![Overview]
+<img width="1332" height="747" alt="01-overview" src="https://github.com/user-attachments/assets/8ef08939-4de2-47ec-9ec7-83bc25db3990" />
 
 ### 2. Audience & Subscribers
-![Audience and Subscribers](screenshots/02-audience-subscribers.png)
+![Audience and Subscribers]<img width="1332" height="750" alt="image" src="https://github.com/user-attachments/assets/272dcb7f-bb1f-4140-9181-bee9adc1cf28" />
+
 
 ### 3. Engagement Details
-![Engagement Details](screenshots/03-engagement-details.png)
+![Engagement Details]<img width="1337" height="748" alt="03-engagement-details" src="https://github.com/user-attachments/assets/03e4d128-e039-4b89-900d-8ba2fb4daf1f" />
+
 
 ### 4. Content Performance
-![Content Performance](screenshots/04-content-performance.png)
+![Content Performance]<img width="1335" height="752" alt="04-content-performance" src="https://github.com/user-attachments/assets/bd9519b2-2552-4480-935a-f8423840a082" />
+
 
 ## Business Questions Answered
 
